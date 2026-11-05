@@ -2,8 +2,6 @@
 
 Desarrollo soluciones para conectar la operación de almacenes con SAP Business One.
 
-En API DATA trabajo en aplicaciones de escritorio y plataformas web para administrar inventarios, usuarios y procesos de almacén.
-
 ## 💻 Tecnologías
 
 - **Escritorio** · Visual Basic .NET, Windows Forms y .NET Framework.
@@ -25,7 +23,3 @@ Plataforma web para procesos de inventario, entradas, entregas, transferencias, 
 ## 🎯 Mi enfoque
 
 Crear herramientas que faciliten el trabajo diario, reduzcan la captura manual y conecten los movimientos del almacén con la información de SAP.
-
-## 🤝 Contacto
-
-📧 yair.loera@apidata.com.mx
